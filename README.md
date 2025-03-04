@@ -1,1 +1,3 @@
-codecademy-open-soure
+# codecademy-open-soure
+
+My first repository!
